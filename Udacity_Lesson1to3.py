@@ -113,7 +113,7 @@ def curvemove():
         right(1)
         forward(1)
 shape('turtle')
-color('pink','red')
+color('Yellow','red')
 pensize(10)
 speed(5)
 ##begin_fill()
